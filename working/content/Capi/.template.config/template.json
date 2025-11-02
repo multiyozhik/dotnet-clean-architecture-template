@@ -1,0 +1,20 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Irina Sviridova",
+    "classifications": [
+        "Web",
+        "Clean Architecture Project",
+        "API",
+        "Microservice"
+    ],
+    "identity": "multiyozhik.cleanarchitecture.template",
+    "name": "Clean Architecture Project by Irina Sviridova",
+    "description": "Микросервис с Clean Architecture. Author: Irina Sviridova (GitHub: @multiyozhik)",
+    "shortName": "Capi",
+    "sourceName": "Capi",
+    "preferNameDirectory": true,
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    }
+}

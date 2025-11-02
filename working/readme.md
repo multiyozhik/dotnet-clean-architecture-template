@@ -1,0 +1,1 @@
+Проект создан по принципам Clean architecture.
