@@ -3,6 +3,9 @@
     <ProjectReference Include="..\Capi.Application\Capi.Application.csproj" />
     <ProjectReference Include="..\Capi.Infrastructure\Capi.Infrastructure.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.3" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
